@@ -52,7 +52,7 @@ Options:
 Examples:
   google-oauth2-token -e user@gmail.com -p myP@ssw0rd 
   --scope https://www.googleapis.com/auth/youtube.upload
-  --client-id xxxx ---client-secret xxxx
+  --client-id xxxx --client-secret xxxx
 ```
 
 #### Example
